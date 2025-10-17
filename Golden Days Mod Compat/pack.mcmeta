@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "description": "Re-textures certain mods for compatibility with Golden Days",
+        "pack_format": 15,
+        "min_format": 15,
+        "max_format": 69,
+        "supported_formats": [15, 64]
+    }
+}

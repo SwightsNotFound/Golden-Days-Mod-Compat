@@ -1,0 +1,12 @@
+### Credit Where Credit Is Due
+
+**PoeticRainbow** — for creating *Golden Days* as well as the base of this resource pack’s logo.
+[Golden Days Resource Pack](https://modrinth.com/resourcepack/golden-days)
+
+**TheDarkPanther** — for the *Exline's Copper Equipment* textures.
+I’ve updated them to use **Golden Days**’ new copper textures introduced in **1.21.9**.
+[Exline's Copper Equipment × Golden Days](https://modrinth.com/resourcepack/exlines-copper-equipment-x-golden-days) • [MIT License](https://opensource.org/license/mit)
+
+**bbali and DrBruhMoments** — for the *Farmer’s Delight* and *Amendments* candle textures.
+I made small modifications, and other *Farmer’s Delight* expansion textures are based on this work.
+[Reminiscence](https://www.curseforge.com/minecraft/modpacks/reminiscence) • [MIT License](https://opensource.org/license/mit)

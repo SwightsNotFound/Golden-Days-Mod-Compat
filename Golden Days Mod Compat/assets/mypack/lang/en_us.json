@@ -1,0 +1,58 @@
+{
+    "rpo.goldenDaysModCompat": "Golden Days Mod Compat",
+
+    // Amendments
+    "rpo.goldenDaysModCompat.amendments": "Amendments",
+    "rpo.goldenDaysModCompat.amendments.tooltip": "Amendments Re-texture",
+
+    // Axolotl Buckets
+    "rpo.goldenDaysModCompat.axolotlBuckets": "Axolotl Buckets",
+    "rpo.goldenDaysModCompat.axolotlBuckets.tooltip": "Axolotl Buckets Re-texture",
+
+    // Chisels & Bits
+    "rpo.goldenDaysModCompat.chiselBit": "Chisels & Bits",
+    "rpo.goldenDaysModCompat.chiselBit.tooltip": "Chisels & Bits Re-texture",
+
+    // Copper Hopper
+    "rpo.goldenDaysModCompat.copperHopper": "Copper Hopper",
+    "rpo.goldenDaysModCompat.copperHopper.tooltip": "Copper Hopper Re-texture",
+
+    // Crate Delight
+    "rpo.goldenDaysModCompat.crateDelight": "Crate Delight",
+    "rpo.goldenDaysModCompat.crateDelight.tooltip": "Crate Delight Re-texture",
+
+    // End Remastered
+    "rpo.goldenDaysModCompat.endRemastered": "End Remastered Frame Patch",
+    "rpo.goldenDaysModCompat.endRemastered.tooltip": "Patches End Remastered to use the proper End Portal Frame texture.",
+
+    // Exline's Copper Equipment
+    "rpo.goldenDaysModCompat.exlineCopperEquipment": "Exline's Copper Equipment",
+    "rpo.goldenDaysModCompat.exlineCopperEquipment.tooltip": "Exline's Copper Equipment Re-texture",
+
+    // Farmer's Delight
+    "rpo.goldenDaysModCompat.farmerDelight": "Farmer's Delight",
+    "rpo.goldenDaysModCompat.farmerDelight.tooltip": "Farmer's Delight Re-texture",
+
+    // Fast Item Frames
+    "rpo.goldenDaysModCompat.fastItemFrames": "Fast Item Frames",
+    "rpo.goldenDaysModCompat.fastItemFrames.tooltip": "Fast Item Frames Re-texture",
+
+    // Horseman
+    "rpo.goldenDaysModCompat.horsemanGui": "Horseman Custom GUI",
+    "rpo.goldenDaysModCompat.horsemanGui.tooltip": "Re-textures Horseman's Inventory Switch Button to be more white.",
+    "rpo.goldenDaysModCompat.horsemanHorn": "Horseman Custom Copper Horn",
+    "rpo.goldenDaysModCompat.horsemanHorn.tooltip": "Re-textures Horseman's Copper Horn to match Golden Days copper texture.",
+
+    // More Delight
+    "rpo.goldenDaysModCompat.moreDelight": "More Delight",
+    "rpo.goldenDaysModCompat.moreDelight.tooltip": "More Delight Re-texture",
+
+    // Pumpkin Pie Delight
+    "rpo.goldenDaysModCompat.pumpkinPieDelight": "Pumpkin Pie Delight",
+    "rpo.goldenDaysModCompat.pumpkinPieDelight.tooltip": "Pumpkin Pie Delight Re-texture (Note: Disabling Farmer's Delight will do the same thing.)",
+
+    // Universal Ores
+    "rpo.goldenDaysModCompat.universalOres": "Universal Ores",
+    "rpo.goldenDaysModCompat.universalOres.tooltip": "Universal Ores Re-texture"
+}
+

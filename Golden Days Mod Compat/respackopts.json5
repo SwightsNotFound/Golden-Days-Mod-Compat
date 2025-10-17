@@ -1,0 +1,22 @@
+{
+    id: "goldenDaysModCompat",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        amendments: true,
+        axolotlBuckets: true,
+        chiselBit: true,
+        copperHopper: true,
+        crateDelight: true,
+        endRemastered: true,
+        exlineCopperEquipment: true,
+        farmerDelight: true,
+        fastItemFrames: true,
+        horsemanGui: true,
+        horsemanHorn: true,
+        moreDelight: true,
+        pumpkinPieDelight: true,
+        universalOres: true
+    }
+}
+
