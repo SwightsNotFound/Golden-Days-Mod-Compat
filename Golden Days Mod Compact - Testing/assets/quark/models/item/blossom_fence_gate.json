@@ -1,0 +1,6 @@
+{
+  "parent": "quark:item/template_fence_gate_inventory",
+  "textures": {
+    "all": "quark:block/blossom_planks"
+  }
+}

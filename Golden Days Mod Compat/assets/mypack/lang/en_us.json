@@ -9,6 +9,10 @@
     "rpo.goldenDaysModCompat.axolotlBuckets": "Axolotl Buckets",
     "rpo.goldenDaysModCompat.axolotlBuckets.tooltip": "Axolotl Buckets Re-texture",
 
+    // Brewin' And Chewin'
+    "rpo.goldenDaysModCompat.brewinChewin": "Brewin' And Chewin'",
+    "rpo.goldenDaysModCompat.brewinChewin.tooltip": "Brewin' And Chewin' Re-texture",
+
     // Chisels & Bits
     "rpo.goldenDaysModCompat.chiselBit": "Chisels & Bits",
     "rpo.goldenDaysModCompat.chiselBit.tooltip": "Chisels & Bits Re-texture",
@@ -43,6 +47,16 @@
     "rpo.goldenDaysModCompat.horsemanHorn": "Horseman Custom Copper Horn",
     "rpo.goldenDaysModCompat.horsemanHorn.tooltip": "Re-textures Horseman's Copper Horn to match Golden Days copper texture.",
 
+    // Joy of Painting
+    "rpo.goldenDaysModCompat.joyofPainting": "Joy of Painting",
+    "rpo.goldenDaysModCompat.joyofPainting.tooltip": "Joy of Painting Re-texture.",
+
+
+    // Leaf's Copper Backport
+    "rpo.goldenDaysModCompat.leafCopperBackport": "Leaf's Copper Backport",
+    "rpo.goldenDaysModCompat.leafCopperBackport.tooltip": "Leaf's Copper Backport Re-texture.",
+
+
     // More Delight
     "rpo.goldenDaysModCompat.moreDelight": "More Delight",
     "rpo.goldenDaysModCompat.moreDelight.tooltip": "More Delight Re-texture",
@@ -50,6 +64,14 @@
     // Pumpkin Pie Delight
     "rpo.goldenDaysModCompat.pumpkinPieDelight": "Pumpkin Pie Delight",
     "rpo.goldenDaysModCompat.pumpkinPieDelight.tooltip": "Pumpkin Pie Delight Re-texture (Note: Disabling Farmer's Delight will do the same thing.)",
+
+    // Sawmill
+    "rpo.goldenDaysModCompat.sawmill": "Sawmill",
+    "rpo.goldenDaysModCompat.sawmill.tooltip": "Sawmill Re-texture",
+
+    // Spplementaries
+    "rpo.goldenDaysModCompat.supplementaries": "Spplementaries",
+    "rpo.goldenDaysModCompat.supplementaries.tooltip": "Spplementaries Re-texture",
 
     // Universal Ores
     "rpo.goldenDaysModCompat.universalOres": "Universal Ores",

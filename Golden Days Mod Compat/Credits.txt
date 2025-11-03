@@ -4,9 +4,9 @@
 [Golden Days Resource Pack](https://modrinth.com/resourcepack/golden-days)
 
 **TheDarkPanther** — for the *Exline's Copper Equipment* textures.
-I’ve updated them to use **Golden Days**’ new copper textures introduced in **1.21.9**.
+I’ve updated it to use **Golden Days**’ new copper textures introduced in **1.21.9**.
 [Exline's Copper Equipment × Golden Days](https://modrinth.com/resourcepack/exlines-copper-equipment-x-golden-days) • [MIT License](https://opensource.org/license/mit)
 
-**bbali and DrBruhMoments** — for the *Farmer’s Delight* and *Amendments* candle textures.
+**bbali and DrBruhMoments** — for the *Farmer’s Delight*, *Sawmill*, *Supplementaries*, *Joy of Painting* and *Amendments* candle textures.
 I made small modifications, and other *Farmer’s Delight* expansion textures are based on this work.
 [Reminiscence](https://www.curseforge.com/minecraft/modpacks/reminiscence) • [MIT License](https://opensource.org/license/mit)

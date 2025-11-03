@@ -1,0 +1,6 @@
+{
+  "parent": "biomesoplenty:item/template_pressure_plate",
+  "textures": {
+    "texture": "biomesoplenty:block/magic_planks"
+  }
+}

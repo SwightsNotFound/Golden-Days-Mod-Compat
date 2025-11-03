@@ -1,0 +1,6 @@
+{
+  "parent": "betterend:item/template_pressure_plate",
+  "textures": {
+    "texture": "betterend:block/lacugrove_planks"
+  }
+}

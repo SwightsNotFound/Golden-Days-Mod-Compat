@@ -1,0 +1,6 @@
+{
+  "parent": "deep_aether:item/template_pressure_plate",
+  "textures": {
+    "texture": "deep_aether:block/conberry_planks"
+  }
+}

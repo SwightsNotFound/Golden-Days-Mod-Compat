@@ -5,6 +5,7 @@
     conf: {
         amendments: true,
         axolotlBuckets: true,
+        brewinChewin: true,
         chiselBit: true,
         copperHopper: true,
         crateDelight: true,
@@ -14,8 +15,12 @@
         fastItemFrames: true,
         horsemanGui: true,
         horsemanHorn: true,
+        joyofPainting: true,
+        leafCopperBackport: true,
         moreDelight: true,
         pumpkinPieDelight: true,
+        sawmill: true,
+        supplementaries: true,
         universalOres: true
     }
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "betterend:item/template_fence_gate_inventory",
+  "textures": {
+    "all": "betterend:block/lacugrove_planks"
+  }
+}

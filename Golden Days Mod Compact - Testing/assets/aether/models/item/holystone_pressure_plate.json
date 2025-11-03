@@ -1,0 +1,6 @@
+{
+  "parent": "aether:item/template_pressure_plate",
+  "textures": {
+    "texture": "aether:block/natural/holystone"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "quark:item/template_pressure_plate",
+  "textures": {
+    "texture": "quark:block/azalea_planks"
+  }
+}

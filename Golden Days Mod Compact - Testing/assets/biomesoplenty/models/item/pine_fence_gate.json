@@ -1,0 +1,6 @@
+{
+  "parent": "biomesoplenty:item/template_fence_gate_inventory",
+  "textures": {
+    "all": "biomesoplenty:block/pine_planks"
+  }
+}

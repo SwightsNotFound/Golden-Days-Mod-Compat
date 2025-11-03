@@ -1,0 +1,6 @@
+{
+  "parent": "deep_aether:item/template_fence_gate_inventory",
+  "textures": {
+    "all": "deep_aether:block/yagroot_planks"
+  }
+}
