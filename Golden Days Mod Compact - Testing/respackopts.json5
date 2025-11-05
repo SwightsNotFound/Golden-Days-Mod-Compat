@@ -1,0 +1,48 @@
+{
+    id: "goldenDaysModCompat",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        CompatOptions: {
+            disableBoats: true,
+            disableBambooBoats: true
+        },
+        modCompatOptions: {
+            aether: true,
+            amendments: true,
+            axolotlBuckets: true,
+            betterCopper: true,
+            betterEnd: true,
+            biomesOPlenty: true,
+            brewinChewin: true,
+            chiselBit: true,
+            copperHopper: true,
+            crateDelight: true,
+            deepAether: true,
+            endRemastered: true,
+            exlineCopperEquipment: true,
+            exposure: true,
+            farmerDelight: true,
+            fastItemFrames: true,
+            horsemanGui: true,
+            horsemanHorn: true,
+            joyofPainting: true,
+            leafCopperBackport: true,
+            mmmMmmMmmMmm: true,
+            moreDelight: true,
+            naturalist: true,
+            oceansDelight: true,
+            pumpkinPieDelight: true,
+            quark: true,
+            rusticDelight: true,
+            sawmill: true,
+            supplementaries: true,
+            universalOres: true,
+            veganDelight: true
+        }
+    }
+}
+
+}
+
+

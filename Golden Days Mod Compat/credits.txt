@@ -1,0 +1,15 @@
+### Credit Where Credit Is Due
+
+**PoeticRainbow** — for creating *Golden Days* as well as the base of this resource pack’s logo.
+[Golden Days Resource Pack](https://modrinth.com/resourcepack/golden-days)
+
+**TheDarkPanther** — for the *Exline's Copper Equipment* textures.
+[Exline's Copper Equipment × Golden Days](https://modrinth.com/resourcepack/exlines-copper-equipment-x-golden-days) • [MIT License](https://opensource.org/license/mit)
+I’ve updated it to use Golden Days’ new copper textures introduced in 1.21.9.
+
+**bbali and DrBruhMoments** — for some of the textures in the following mods.
+[Reminiscence](https://www.curseforge.com/minecraft/modpacks/reminiscence) • [MIT License](https://opensource.org/license/mit)
+Amendments / Aether / BetterEnd / Deep Aether / End Remastered / Farmer’s Delight / Joy of Painting / Naturalist / Quark / Sawmill / Supplementaries
+
+**H2OTheMadScientist** — for the MmmMmmMmmMmm (Dummmy) item, and the general base of the model, I have simple updated it to work with newer versions of the mod.
+[Programmer-ish Dummy](https://modrinth.com/resourcepack/programmer-ish-dummy) • [CC0-1.0 License](https://choosealicense.com/licenses/cc0-1.0/)

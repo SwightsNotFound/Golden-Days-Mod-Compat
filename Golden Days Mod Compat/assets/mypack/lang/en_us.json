@@ -1,6 +1,18 @@
 {
     "rpo.goldenDaysModCompat": "Golden Days Mod Compat",
 
+    // CompatOptions
+    // Boats
+    "rpo.goldenDaysModCompat.disableBoats": "Disable EMF boats",
+    "rpo.goldenDaysModCompat.disableBoats.tooltip": "Disables Golden Days custom EMF boats",
+    "rpo.goldenDaysModCompat.disableBambooBoats": "Disables EMF bamboo boats",
+    "rpo.goldenDaysModCompat.disableBambooBoats.tooltip": "Disables Golden Days custom EMF bamboo boats",
+
+    // Mod Options
+    // Aether
+    "rpo.goldenDaysModCompat.aether": "Aether",
+    "rpo.goldenDaysModCompat.aether.tooltip": "Aether Re-texture.",
+
     // Amendments
     "rpo.goldenDaysModCompat.amendments": "Amendments",
     "rpo.goldenDaysModCompat.amendments.tooltip": "Amendments Re-texture",
@@ -8,6 +20,22 @@
     // Axolotl Buckets
     "rpo.goldenDaysModCompat.axolotlBuckets": "Axolotl Buckets",
     "rpo.goldenDaysModCompat.axolotlBuckets.tooltip": "Axolotl Buckets Re-texture",
+
+    // Axolotl Buckets
+    "rpo.goldenDaysModCompat.backportPaintings": "Backport Paintings 1.21",
+    "rpo.goldenDaysModCompat.backportPaintings.tooltip": "Backport Paintings 1.21 Re-texture",
+
+    // Better Copper / Armor and Tools
+    "rpo.goldenDaysModCompat.betterCopper": "Better Copper / Armor and Tools",
+    "rpo.goldenDaysModCompat.betterCopper.tooltip": "Better Copper / Armor and Tools Re-texture",
+
+    // BetterEnd
+    "rpo.goldenDaysModCompat.betterEnd": "BetterEnd",
+    "rpo.goldenDaysModCompat.betterEnd.tooltip": "BetterEnd Re-texture",
+
+    // Biomes O' Plenty
+    "rpo.goldenDaysModCompat.biomesOPlenty": "Biomes O' Plenty",
+    "rpo.goldenDaysModCompat.biomesOPlenty.tooltip": "Biomes O' Plenty Re-texture",
 
     // Brewin' And Chewin'
     "rpo.goldenDaysModCompat.brewinChewin": "Brewin' And Chewin'",
@@ -25,6 +53,10 @@
     "rpo.goldenDaysModCompat.crateDelight": "Crate Delight",
     "rpo.goldenDaysModCompat.crateDelight.tooltip": "Crate Delight Re-texture",
 
+    // Deep Aether
+    "rpo.goldenDaysModCompat.deepAether": "Deep Aether",
+    "rpo.goldenDaysModCompat.deepAether.tooltip": "Deep Aether Re-texture",
+
     // End Remastered
     "rpo.goldenDaysModCompat.endRemastered": "End Remastered Frame Patch",
     "rpo.goldenDaysModCompat.endRemastered.tooltip": "Patches End Remastered to use the proper End Portal Frame texture.",
@@ -32,6 +64,10 @@
     // Exline's Copper Equipment
     "rpo.goldenDaysModCompat.exlineCopperEquipment": "Exline's Copper Equipment",
     "rpo.goldenDaysModCompat.exlineCopperEquipment.tooltip": "Exline's Copper Equipment Re-texture",
+
+    // Exposure
+    "rpo.goldenDaysModCompat.exposure": "Exposure",
+    "rpo.goldenDaysModCompat.exposure.tooltip": "Exposure Re-texture",
 
     // Farmer's Delight
     "rpo.goldenDaysModCompat.farmerDelight": "Farmer's Delight",
@@ -56,14 +92,34 @@
     "rpo.goldenDaysModCompat.leafCopperBackport": "Leaf's Copper Backport",
     "rpo.goldenDaysModCompat.leafCopperBackport.tooltip": "Leaf's Copper Backport Re-texture.",
 
+    // MmmMmmMmmMmm
+    "rpo.goldenDaysModCompat.mmmMmmMmmMmm": "MmmMmmMmmMmm (dummmmmmy)",
+    "rpo.goldenDaysModCompat.mmmMmmMmmMmm.tooltip": "MmmMmmMmmMmm (dummmmmmy) Re-texture.",
+
 
     // More Delight
     "rpo.goldenDaysModCompat.moreDelight": "More Delight",
     "rpo.goldenDaysModCompat.moreDelight.tooltip": "More Delight Re-texture",
 
+    // Naturalist
+    "rpo.goldenDaysModCompat.naturalist": "Naturalist",
+    "rpo.goldenDaysModCompat.naturalist.tooltip": "Naturalist Re-texture",
+
+    // Ocean's Delight
+    "rpo.goldenDaysModCompat.oceansDelight": "Ocean's Delight",
+    "rpo.goldenDaysModCompat.oceansDelight.tooltip": "Ocean's Delight Re-texture",
+
     // Pumpkin Pie Delight
     "rpo.goldenDaysModCompat.pumpkinPieDelight": "Pumpkin Pie Delight",
     "rpo.goldenDaysModCompat.pumpkinPieDelight.tooltip": "Pumpkin Pie Delight Re-texture (Note: Disabling Farmer's Delight will do the same thing.)",
+
+    // Quark
+    "rpo.goldenDaysModCompat.quark": "Quark",
+    "rpo.goldenDaysModCompat.quark.tooltip": "Quark Re-texture",
+
+    // Rustic Delight
+    "rpo.goldenDaysModCompat.rusticDelight": "Rustic Delight",
+    "rpo.goldenDaysModCompat.rusticDelight.tooltip": "Rustic Delight Re-texture",
 
     // Sawmill
     "rpo.goldenDaysModCompat.sawmill": "Sawmill",
@@ -73,8 +129,20 @@
     "rpo.goldenDaysModCompat.supplementaries": "Spplementaries",
     "rpo.goldenDaysModCompat.supplementaries.tooltip": "Spplementaries Re-texture",
 
+    // Trials Chambers
+    "rpo.goldenDaysModCompat.trialsChambers": "Trials Chambers",
+    "rpo.goldenDaysModCompat.trialsChambers.tooltip": "Trials Chambers Re-texture",
+
     // Universal Ores
     "rpo.goldenDaysModCompat.universalOres": "Universal Ores",
-    "rpo.goldenDaysModCompat.universalOres.tooltip": "Universal Ores Re-texture"
+    "rpo.goldenDaysModCompat.universalOres.tooltip": "Universal Ores Re-texture",
+
+    // Vanilla Backport
+    "rpo.goldenDaysModCompat.vanillaBackport": "Vanilla Backport",
+    "rpo.goldenDaysModCompat.vanillaBackport.tooltip": "Vanilla Backport Re-texture",
+
+    // Vegan Delight
+    "rpo.goldenDaysModCompat.veganDelight": "Vegan Delight",
+    "rpo.goldenDaysModCompat.veganDelight.tooltip": "Vegan Delight Re-texture"
 }
 

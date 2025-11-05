@@ -1,9 +1,15 @@
 {
-  "pack": {
-    "description": "Re-textures certain mods for compatibility with Golden Days",
-    "pack_format": 69,
-    "min_format": 18,
-    "max_format": 69,
-    "supported_formats": [18, 32, 64, 69]
-  }
+    "pack": {
+        "pack_format": 15,
+		"supported_formats": [15, 32],
+        "description": "Re-textures certain mods for compatibility with §6Golden Days"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 18, "max_inclusive": 2147483647},
+				"directory": "overlay_18"
+			}
+		]
+	}
 }

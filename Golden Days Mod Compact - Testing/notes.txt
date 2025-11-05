@@ -1,3 +1,0 @@
-Does not support varient chests, turn it off | Building/Varient chests = false, you may also have to hide the recipes in your recipe viewer if you have one installed.
-
-BetterEnd Does not support varient chests

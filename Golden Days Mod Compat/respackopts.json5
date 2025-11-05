@@ -3,25 +3,44 @@
     version: 13,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
+        disableBoats: true,
+        disableBambooBoats: true,
+        aether: true,
         amendments: true,
         axolotlBuckets: true,
+        backportPaintings: true,
+        betterCopper: true,
+        betterEnd: true,
+        biomesOPlenty: true,
         brewinChewin: true,
         chiselBit: true,
         copperHopper: true,
         crateDelight: true,
+        deepAether: true,
         endRemastered: true,
         exlineCopperEquipment: true,
+        exposure: true,
         farmerDelight: true,
         fastItemFrames: true,
         horsemanGui: true,
         horsemanHorn: true,
         joyofPainting: true,
         leafCopperBackport: true,
+        mmmMmmMmmMmm: true,
         moreDelight: true,
+        naturalist: true,
+        oceansDelight: true,
         pumpkinPieDelight: true,
+        quark: true,
+        rusticDelight: true,
         sawmill: true,
         supplementaries: true,
-        universalOres: true
+        trialsChambers: true,
+        universalOres: true,
+        vanillaBackport: true,
+        veganDelight: true
     }
 }
+
+
 

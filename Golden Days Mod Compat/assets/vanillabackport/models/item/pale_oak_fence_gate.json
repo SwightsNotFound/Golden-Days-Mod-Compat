@@ -1,0 +1,6 @@
+{
+  "parent": "vanillabackport:item/template_fence_gate_inventory",
+  "textures": {
+    "all": "vanillabackport:block/pale_oak_planks"
+  }
+}

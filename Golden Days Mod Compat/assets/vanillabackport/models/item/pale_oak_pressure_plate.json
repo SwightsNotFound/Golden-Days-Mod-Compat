@@ -1,0 +1,6 @@
+{
+  "parent": "vanillabackport:item/template_pressure_plate",
+  "textures": {
+    "texture": "vanillabackport:block/pale_oak_planks"
+  }
+}
