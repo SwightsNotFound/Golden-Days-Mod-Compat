@@ -1,5 +1,3 @@
-# Golden-Days-Mod-Compat
-***Please note that the Github's description and releases is not always kept up to date. check the [Modrinth](https://modrinth.com/resourcepack/golden-days-compat) page***
 The goal of this resource pack is to re-texture many popular mods so they visually match the **Golden Days** aesthetic.
 
 Make sure Golden Days Mod Compat is above Golden Days on the resource pack screen.
@@ -67,6 +65,7 @@ Last updated: 11/04/2025 (month/day/year)
 - [inmis](https://modrinth.com/mod/inmis) - 🛠
 - [Iron Furnaces](https://modrinth.com/mod/iron-furnaces) - 📝
 - [Let's Do Vinery](https://modrinth.com/mod/lets-do-vinery) - 📝
+- [Weapons Expanded](https://modrinth.com/mod/weaponsexpanded) - 🛠
 - [Medieval Weapons](https://modrinth.com/mod/medievalweapons) - 📝
 - [My Nether's Delight](https://modrinth.com/mod/my-nethers-delight) - 📝
 - [Nature's Compass](https://modrinth.com/mod/natures-compass) - 🛠
@@ -91,18 +90,28 @@ Custom beta-style boat textures used by Golden Days through EMF are not currentl
 
 ---
 
-If you’d like to help improve or fix any of the issues listed above, please feel free to help out on [GitHub](https://github.com/SwightsNotFound/Golden-Days-Mod-Compat) Contributions are always appreciated.
+If you’d like to help improve or fix any of the issues listed above, please feel free to help out on [GitHub](https://github.com/SwightsNotFound/Golden-Days-Mod-Compat), Contributions are always appreciated.
+
+### Licensing
+While most of this pack is licensed under [MIT](https://opensource.org/license/mit), **PoeticRainbow** has full rights to the following assets present in this pack.
+- This resource packs logo.
+- The unoxidized copper textures of the sword, tools, and armour in [Exline's Copper Equipment](https://modrinth.com/mod/exlines-copper-equipment)
+- All paintings present in [Backport Paintings 1.21](https://modrinth.com/mod/backport-paintings-1.21).
+- All texturs present in [Better Copper / Armor and Tools](https://modrinth.com/mod/better-copper-armor-and-tools)
+- All textures present in [Leaf's Copper Backport](https://modrinth.com/mod/copper-backport)  
+- All textures present in [Vanilla Backport](https://modrinth.com/mod/vanillabackport)
+- All textures present in [Trials Chambers](https://modrinth.com/mod/trials-chambers-backport)
 
 ### Credit Where Credit Is Due
+If any of the following people need to contact me please [email me](mailto:mail@swightshome.xyz).
 
-**PoeticRainbow** — for creating *Golden Days* as well as the base of this resource pack’s logo.  
-[Golden Days Resource Pack](https://modrinth.com/resourcepack/golden-days)
+**PoeticRainbow** — for creating *Golden Days* and for being being kind enough to help me.  
 
 **TheDarkPanther** — for the *Exline's Copper Equipment* textures.  
 [Exline's Copper Equipment × Golden Days](https://modrinth.com/resourcepack/exlines-copper-equipment-x-golden-days) • [MIT License](https://opensource.org/license/mit)  
 I’ve updated it to use Golden Days’ new copper textures introduced in 1.21.9.  
 
-**bbali and DrBruhMoments** — for some of the textures in the following mods.  
+**bbali and DrBruhMoments** — for some of the textures im using to support the following mods.  
 [Reminiscence](https://www.curseforge.com/minecraft/modpacks/reminiscence) • [MIT License](https://opensource.org/license/mit)  
 Amendments / Aether / BetterEnd / Deep Aether / End Remastered / Farmer’s Delight / Joy of Painting / Naturalist / Quark / Sawmill / Supplementaries
 

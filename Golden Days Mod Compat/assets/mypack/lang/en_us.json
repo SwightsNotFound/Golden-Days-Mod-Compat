@@ -57,6 +57,10 @@
     "rpo.goldenDaysModCompat.deepAether": "Deep Aether",
     "rpo.goldenDaysModCompat.deepAether.tooltip": "Deep Aether Re-texture",
 
+    // Detail Armor Bar
+    "rpo.goldenDaysModCompat.detailArmorBar": "Detail Armor Bar",
+    "rpo.goldenDaysModCompat.detailArmorBar.tooltip": "Detail Armor Bar Re-texture",
+
     // End Remastered
     "rpo.goldenDaysModCompat.endRemastered": "End Remastered Frame Patch",
     "rpo.goldenDaysModCompat.endRemastered.tooltip": "Patches End Remastered to use the proper End Portal Frame texture.",
