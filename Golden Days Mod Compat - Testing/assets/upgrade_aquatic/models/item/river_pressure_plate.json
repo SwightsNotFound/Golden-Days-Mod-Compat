@@ -1,0 +1,6 @@
+{
+  "parent": "upgrade_aquatic:item/template_pressure_plate",
+  "textures": {
+    "texture": "upgrade_aquatic:block/river_planks"
+  }
+}

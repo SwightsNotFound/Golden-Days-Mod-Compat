@@ -1,0 +1,6 @@
+{
+  "parent": "upgrade_aquatic:item/template_fence_gate_inventory",
+  "textures": {
+    "all": "upgrade_aquatic:block/river_planks"
+  }
+}
