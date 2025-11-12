@@ -9,11 +9,15 @@
         amendments: true,
         axolotlBuckets: true,
         backportPaintings: true,
+        basicWeapons: true,
         betterCopper: true,
         betterEnd: true,
         biomesOPlenty: true,
         brewinChewin: true,
+        bronze: true,
+        buzzierBees: true,
         chiselBit: true,
+        clayworks: true,
         copperHopper: true,
         crateDelight: true,
         deepAether: true,
@@ -25,12 +29,15 @@
         fastItemFrames: true,
         horsemanGui: true,
         horsemanHorn: true,
+        incubation: true,
+        inmis: true,
         joyofPainting: true,
         leafCopperBackport: true,
         mmmMmmMmmMmm: true,
         moreDelight: true,
         naturalist: true,
         oceansDelight: true,
+        petCemetery: true,
         pumpkinPieDelight: true,
         quark: true,
         rusticDelight: true,
@@ -38,10 +45,12 @@
         supplementaries: true,
         trialsChambers: true,
         universalOres: true,
+        upgradeAquatic: true,
         vanillaBackport: true,
         veganDelight: true
     }
 }
+
 
 
 

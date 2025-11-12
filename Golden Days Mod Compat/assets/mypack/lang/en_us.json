@@ -21,9 +21,13 @@
     "rpo.goldenDaysModCompat.axolotlBuckets": "Axolotl Buckets",
     "rpo.goldenDaysModCompat.axolotlBuckets.tooltip": "Axolotl Buckets Re-texture",
 
-    // Axolotl Buckets
+    // Backport Paintings
     "rpo.goldenDaysModCompat.backportPaintings": "Backport Paintings 1.21",
     "rpo.goldenDaysModCompat.backportPaintings.tooltip": "Backport Paintings 1.21 Re-texture",
+
+    // Basic Weapons
+    "rpo.goldenDaysModCompat.basicWeapons": "Basic Weapons",
+    "rpo.goldenDaysModCompat.basicWeapons.tooltip": "Basic Weapons Re-texture",
 
     // Better Copper / Armor and Tools
     "rpo.goldenDaysModCompat.betterCopper": "Better Copper / Armor and Tools",
@@ -41,9 +45,21 @@
     "rpo.goldenDaysModCompat.brewinChewin": "Brewin' And Chewin'",
     "rpo.goldenDaysModCompat.brewinChewin.tooltip": "Brewin' And Chewin' Re-texture",
 
+    // Bronze
+    "rpo.goldenDaysModCompat.bronze": "Bronze",
+    "rpo.goldenDaysModCompat.bronze.tooltip": "Bronze Re-texture",
+
+    // Buzzier Bees
+    "rpo.goldenDaysModCompat.buzzierBees": "Buzzier Bees",
+    "rpo.goldenDaysModCompat.buzzierBees.tooltip": "Buzzier Bees Re-texture",
+
     // Chisels & Bits
     "rpo.goldenDaysModCompat.chiselBit": "Chisels & Bits",
     "rpo.goldenDaysModCompat.chiselBit.tooltip": "Chisels & Bits Re-texture",
+
+    // Clayworks
+    "rpo.goldenDaysModCompat.clayworks": "Clayworks",
+    "rpo.goldenDaysModCompat.clayworks.tooltip": "Clayworks Re-texture",
 
     // Copper Hopper
     "rpo.goldenDaysModCompat.copperHopper": "Copper Hopper",
@@ -87,10 +103,17 @@
     "rpo.goldenDaysModCompat.horsemanHorn": "Horseman Custom Copper Horn",
     "rpo.goldenDaysModCompat.horsemanHorn.tooltip": "Re-textures Horseman's Copper Horn to match Golden Days copper texture.",
 
+    // Incubation
+    "rpo.goldenDaysModCompat.incubation": "Incubation",
+    "rpo.goldenDaysModCompat.incubation.tooltip": "Incubation Re-texture",
+
+    // Inmis
+    "rpo.goldenDaysModCompat.inmis": "Inmis",
+    "rpo.goldenDaysModCompat.inmis.tooltip": "Inmis Re-texture",
+
     // Joy of Painting
     "rpo.goldenDaysModCompat.joyofPainting": "Joy of Painting",
     "rpo.goldenDaysModCompat.joyofPainting.tooltip": "Joy of Painting Re-texture.",
-
 
     // Leaf's Copper Backport
     "rpo.goldenDaysModCompat.leafCopperBackport": "Leaf's Copper Backport",
@@ -99,7 +122,6 @@
     // MmmMmmMmmMmm
     "rpo.goldenDaysModCompat.mmmMmmMmmMmm": "MmmMmmMmmMmm (dummmmmmy)",
     "rpo.goldenDaysModCompat.mmmMmmMmmMmm.tooltip": "MmmMmmMmmMmm (dummmmmmy) Re-texture.",
-
 
     // More Delight
     "rpo.goldenDaysModCompat.moreDelight": "More Delight",
@@ -112,6 +134,10 @@
     // Ocean's Delight
     "rpo.goldenDaysModCompat.oceansDelight": "Ocean's Delight",
     "rpo.goldenDaysModCompat.oceansDelight.tooltip": "Ocean's Delight Re-texture",
+
+    // Pet Cemetery
+    "rpo.goldenDaysModCompat.petCemetery": "Pet Cemetery",
+    "rpo.goldenDaysModCompat.petCemetery.tooltip": "Pet Cemetery Re-texture",
 
     // Pumpkin Pie Delight
     "rpo.goldenDaysModCompat.pumpkinPieDelight": "Pumpkin Pie Delight",
@@ -129,9 +155,9 @@
     "rpo.goldenDaysModCompat.sawmill": "Sawmill",
     "rpo.goldenDaysModCompat.sawmill.tooltip": "Sawmill Re-texture",
 
-    // Spplementaries
-    "rpo.goldenDaysModCompat.supplementaries": "Spplementaries",
-    "rpo.goldenDaysModCompat.supplementaries.tooltip": "Spplementaries Re-texture",
+    // Supplementaries
+    "rpo.goldenDaysModCompat.supplementaries": "Supplementaries",
+    "rpo.goldenDaysModCompat.supplementaries.tooltip": "Supplementaries Re-texture",
 
     // Trials Chambers
     "rpo.goldenDaysModCompat.trialsChambers": "Trials Chambers",
@@ -141,6 +167,10 @@
     "rpo.goldenDaysModCompat.universalOres": "Universal Ores",
     "rpo.goldenDaysModCompat.universalOres.tooltip": "Universal Ores Re-texture",
 
+    // Upgrade Aquatic
+    "rpo.goldenDaysModCompat.upgradeAquatic": "Upgrade Aquatic",
+    "rpo.goldenDaysModCompat.upgradeAquatic.tooltip": "Upgrade Aquatic Re-texture",
+
     // Vanilla Backport
     "rpo.goldenDaysModCompat.vanillaBackport": "Vanilla Backport",
     "rpo.goldenDaysModCompat.vanillaBackport.tooltip": "Vanilla Backport Re-texture",
@@ -149,4 +179,5 @@
     "rpo.goldenDaysModCompat.veganDelight": "Vegan Delight",
     "rpo.goldenDaysModCompat.veganDelight.tooltip": "Vegan Delight Re-texture"
 }
+
 
