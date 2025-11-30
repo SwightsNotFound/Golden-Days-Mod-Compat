@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/bread"
+    },
+    {
+      "item": "mynethersdelight:cooked_loin"
+    },
+    {
+      "item": "minecraft:twisting_vines"
+    },
+    {
+      "item": "minecraft:crimson_fungus"
+    },
+    [
+      {
+        "item": "minecraft:warped_fungus"
+      },
+      {
+        "item": "minecraft:crimson_fungus"
+      }
+    ]
+  ],
+  "result": {
+    "count": 1,
+    "id": "mynethersdelight:nether_burger"
+  }
+}

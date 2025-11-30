@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "B": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "emerald_tools:bow_template"
+  },
+  "show_notification": true
+}

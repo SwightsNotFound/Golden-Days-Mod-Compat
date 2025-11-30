@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+      "emerald_tools:emerald_sword",
+      "emerald_tools:obsidian_sword",
+      "emerald_tools:ruby_sword",
+      "emerald_tools:steel_sword",
+      "emerald_tools:copper_sword",
+      "emerald_tools:amethyst_sword"
+  ]
+}

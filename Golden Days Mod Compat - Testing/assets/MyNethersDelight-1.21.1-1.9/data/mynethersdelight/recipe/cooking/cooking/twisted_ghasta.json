@@ -1,0 +1,36 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "mynethersdelight:ghasta"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "minecraft:warped_fungus"
+        },
+        {
+          "item": "minecraft:twisting_vines"
+        }
+      ]
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "minecraft:warped_fungus"
+        },
+        {
+          "item": "minecraft:twisting_vines"
+        }
+      ]
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "mynethersdelight:twisted_ghasta"
+  }
+}

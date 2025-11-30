@@ -1,0 +1,16 @@
+{
+	"replace": false,
+	"values": [
+		{"id": "another_furniture:oak_table", "required": false},
+		{"id": "another_furniture:spruce_table", "required": false},
+		{"id": "another_furniture:birch_table", "required": false},
+		{"id": "another_furniture:jungle_table", "required": false},
+		{"id": "another_furniture:acacia_table", "required": false},
+		{"id": "another_furniture:dark_oak_table", "required": false},
+		{"id": "another_furniture:crimson_table", "required": false},
+		{"id": "another_furniture:warped_table", "required": false},
+		{"id": "another_furniture:mangrove_table", "required": false},
+		{"id": "another_furniture:bamboo_table", "required": false},
+		{"id": "another_furniture:cherry_table", "required": false}
+	]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "medievalweapons:item/long_bow",
+    "textures": {
+        "layer0": "medievalweapons:item/long_bow_pulling_1"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fastitemframes:item/glow_item_frame",
+    "layer1": "fastitemframes:item/glow_item_frame_overlay"
+  }
+}

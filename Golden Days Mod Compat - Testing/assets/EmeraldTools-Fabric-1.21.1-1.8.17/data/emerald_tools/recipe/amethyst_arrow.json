@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    },
+    "c": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "emerald_tools:amethyst_arrow"
+  }
+}

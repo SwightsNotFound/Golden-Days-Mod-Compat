@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "emerald_tools:steel_ingot"
+    }
+  },
+  "pattern": [
+    "a a",
+    "a a",
+    "   "
+  ],
+  "result": {
+    "count": 1,
+    "id": "emerald_tools:steel_boots"
+  }
+}

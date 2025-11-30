@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mynethersdelight:ghasmati"
+    },
+    {
+      "tag": "c:foods/milk"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "mynethersdelight:dried_ghast_with_milk"
+  }
+}

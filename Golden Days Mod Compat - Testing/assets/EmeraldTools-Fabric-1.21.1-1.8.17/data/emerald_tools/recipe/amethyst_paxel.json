@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "emerald_tools:amethyst_axe"
+    },
+    "b": {
+      "item": "emerald_tools:amethyst_shovel"
+    },
+    "c": {
+      "item": "emerald_tools:amethyst_pickaxe"
+    },
+    "d": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "abc",
+    " d ",
+    " d "
+  ],
+  "result": {
+    "count": 1,
+    "id": "emerald_tools:amethyst_paxel"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "emerald_tools",
+  "version": "1.8.17",
+  "name": "Emerald Tools",
+  "description": "A vanilla-friendly mod that adds Emerald, Ruby, Copper, Amethyst, Obsidian, and Steel gear, no new ores",
+  "authors": [
+    "Kevin Pugh"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric",
+    "sources": ""
+  },
+  "license": "MIT",
+  "icon": "assets/emerald_tools/textures/item/emerald_sword.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.kwpugh.emerald_tools.datagen.ModDataGenerator"
+    ],
+    "main": [
+      "com.kwpugh.emerald_tools.EmeraldTools"
+    ],
+    "client": [
+      "com.kwpugh.emerald_tools.EmeraldToolsClient"
+    ]
+  },
+  "mixins": [
+    "emerald_tools.mixins.json"
+  ],
+  "accessWidener": "emerald_tools.accesswidener",
+  "depends": {
+    "fabricloader": "\u003e\u003d0.15.10",
+    "fabric": "*",
+    "java": "\u003e\u003d21",
+    "minecraft": "1.21.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/pugh_tools_fabric_1.21-1.8.19.jar"
+    },
+    {
+      "file": "META-INF/jars/jankson-1.2.3.jar"
+    }
+  ]
+}

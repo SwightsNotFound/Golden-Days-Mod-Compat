@@ -1,0 +1,8 @@
+{
+    "parent": "another_furniture:block/template/awning_top",
+    "textures": {
+        "particle": "minecraft:block/lime_wool",
+        "side": "another_furniture:block/awning/lime_side",
+        "top": "another_furniture:block/awning/lime_top"
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"parent": "minecraft:block/block",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"curtain": "another_furniture:block/curtain2/white_open_bottom",
+		"particle": "#curtain"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 14.9],
+			"to": [16, 16, 14.9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 1, 15.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#curtain"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#curtain"}
+			}
+		}
+	]
+}

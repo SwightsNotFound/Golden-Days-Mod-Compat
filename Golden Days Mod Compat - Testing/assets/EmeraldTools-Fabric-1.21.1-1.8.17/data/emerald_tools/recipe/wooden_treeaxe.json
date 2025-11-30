@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "tag": "minecraft:logs"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "ab ",
+    "ac ",
+    " c "
+  ],
+  "result": {
+    "count": 1,
+    "id": "emerald_tools:wooden_treeaxe"
+  }
+}

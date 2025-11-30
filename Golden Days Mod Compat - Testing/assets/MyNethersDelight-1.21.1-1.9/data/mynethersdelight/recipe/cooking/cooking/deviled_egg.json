@@ -1,0 +1,29 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/boiled_egg"
+    },
+    {
+      "tag": "mynethersdelight:hot_spice"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "mynethersdelight:hoglin_sausage"
+        },
+        {
+          "item": "farmersdelight:bacon"
+        }
+      ]
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 2,
+    "id": "mynethersdelight:deviled_egg"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "fastitemframes",
+  "version": "21.10.0",
+  "name": "Fast Item Frames",
+  "description": "Supercharged item frames! Less lag, better performance, and now they can change color and vanish!",
+  "authors": [
+    "Fuzs"
+  ],
+  "contact": {
+    "homepage": "https://github.com/Fuzss/fastitemframes",
+    "issues": "https://github.com/Fuzss/fastitemframes/issues",
+    "sources": "https://github.com/Fuzss/fastitemframes"
+  },
+  "license": "MPL-2.0",
+  "icon": "mod_logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fuzs.fastitemframes.fabric.FastItemFramesFabric"
+    ],
+    "client": [
+      "fuzs.fastitemframes.fabric.client.FastItemFramesFabricClient"
+    ]
+  },
+  "mixins": [
+    "fastitemframes.common.mixins.json",
+    "fastitemframes.fabric.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "\u003e\u003d0.17.0",
+    "fabric-api": "\u003e\u003d0.134.0",
+    "puzzleslib": "\u003e\u003d21.10.0",
+    "minecraft": "\u003e\u003d1.21.10- \u003c1.21.11-"
+  },
+  "accessWidener": "fastitemframes.accesswidener"
+}

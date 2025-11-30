@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "permanentsponges:item/aqueous_sponge_on_a_stick"
+  }
+}

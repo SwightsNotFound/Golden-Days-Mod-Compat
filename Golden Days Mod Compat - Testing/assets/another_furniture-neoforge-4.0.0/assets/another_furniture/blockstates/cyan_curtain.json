@@ -1,0 +1,130 @@
+{
+    "variants": {
+        "facing=north,vertical=up,horizontal=single,open=true": {
+            "model": "another_furniture:block/curtain/cyan_middle"
+        },
+        "facing=north,vertical=up,horizontal=left,open=true": {
+            "model": "another_furniture:block/curtain/cyan_left_top"
+        },
+        "facing=north,vertical=down,horizontal=left,open=true": {
+            "model": "another_furniture:block/curtain/cyan_left_bottom"
+        },
+        "facing=north,vertical=up,horizontal=right,open=true": {
+            "model": "another_furniture:block/curtain/cyan_right_top"
+        },
+        "facing=north,vertical=down,horizontal=right,open=true": {
+            "model": "another_furniture:block/curtain/cyan_right_bottom"
+        },
+        "facing=north,vertical=up,horizontal=middle,open=true": {
+            "model": "another_furniture:block/curtain/cyan_middle"
+        },
+        "facing=north,vertical=up,open=false": {
+            "model": "another_furniture:block/curtain/cyan_closed_top"
+        },
+        "facing=north,vertical=down,open=false": {
+            "model": "another_furniture:block/curtain/cyan_closed_bottom"
+        },
+        "facing=east,vertical=up,horizontal=single,open=true": {
+            "model": "another_furniture:block/curtain/cyan_middle",
+            "y": 90
+        },
+        "facing=east,vertical=up,horizontal=left,open=true": {
+            "model": "another_furniture:block/curtain/cyan_left_top",
+            "y": 90
+        },
+        "facing=east,vertical=down,horizontal=left,open=true": {
+            "model": "another_furniture:block/curtain/cyan_left_bottom",
+            "y": 90
+        },
+        "facing=east,vertical=up,horizontal=right,open=true": {
+            "model": "another_furniture:block/curtain/cyan_right_top",
+            "y": 90
+        },
+        "facing=east,vertical=down,horizontal=right,open=true": {
+            "model": "another_furniture:block/curtain/cyan_right_bottom",
+            "y": 90
+        },
+        "facing=east,vertical=up,horizontal=middle,open=true": {
+            "model": "another_furniture:block/curtain/cyan_middle",
+            "y": 90
+        },
+        "facing=east,vertical=up,open=false": {
+            "model": "another_furniture:block/curtain/cyan_closed_top",
+            "y": 90
+        },
+        "facing=east,vertical=down,open=false": {
+            "model": "another_furniture:block/curtain/cyan_closed_bottom",
+            "y": 90
+        },
+        "facing=south,vertical=up,horizontal=single,open=true": {
+            "model": "another_furniture:block/curtain/cyan_middle",
+            "y": 180
+        },
+        "facing=south,vertical=up,horizontal=left,open=true": {
+            "model": "another_furniture:block/curtain/cyan_left_top",
+            "y": 180
+        },
+        "facing=south,vertical=down,horizontal=left,open=true": {
+            "model": "another_furniture:block/curtain/cyan_left_bottom",
+            "y": 180
+        },
+        "facing=south,vertical=up,horizontal=right,open=true": {
+            "model": "another_furniture:block/curtain/cyan_right_top",
+            "y": 180
+        },
+        "facing=south,vertical=down,horizontal=right,open=true": {
+            "model": "another_furniture:block/curtain/cyan_right_bottom",
+            "y": 180
+        },
+        "facing=south,vertical=up,horizontal=middle,open=true": {
+            "model": "another_furniture:block/curtain/cyan_middle",
+            "y": 180
+        },
+        "facing=south,vertical=up,open=false": {
+            "model": "another_furniture:block/curtain/cyan_closed_top",
+            "y": 180
+        },
+        "facing=south,vertical=down,open=false": {
+            "model": "another_furniture:block/curtain/cyan_closed_bottom",
+            "y": 180
+        },
+        "facing=west,vertical=up,horizontal=single,open=true": {
+            "model": "another_furniture:block/curtain/cyan_middle",
+            "y": 270
+        },
+        "facing=west,vertical=up,horizontal=left,open=true": {
+            "model": "another_furniture:block/curtain/cyan_left_top",
+            "y": 270
+        },
+        "facing=west,vertical=down,horizontal=left,open=true": {
+            "model": "another_furniture:block/curtain/cyan_left_bottom",
+            "y": 270
+        },
+        "facing=west,vertical=up,horizontal=right,open=true": {
+            "model": "another_furniture:block/curtain/cyan_right_top",
+            "y": 270
+        },
+        "facing=west,vertical=down,horizontal=right,open=true": {
+            "model": "another_furniture:block/curtain/cyan_right_bottom",
+            "y": 270
+        },
+        "facing=west,vertical=up,horizontal=middle,open=true": {
+            "model": "another_furniture:block/curtain/cyan_middle",
+            "y": 270
+        },
+        "facing=west,vertical=up,open=false": {
+            "model": "another_furniture:block/curtain/cyan_closed_top",
+            "y": 270
+        },
+        "facing=west,vertical=down,open=false": {
+            "model": "another_furniture:block/curtain/cyan_closed_bottom",
+            "y": 270
+        },
+        "vertical=down,horizontal=single,open=true": {
+            "model": "minecraft:block/air"
+        },
+        "vertical=down,horizontal=middle,open=true": {
+            "model": "minecraft:block/air"
+        }
+    }
+}

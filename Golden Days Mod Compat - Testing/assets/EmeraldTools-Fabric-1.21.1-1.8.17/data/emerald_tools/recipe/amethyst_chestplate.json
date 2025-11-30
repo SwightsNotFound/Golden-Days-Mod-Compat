@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "result": {
+    "count": 1,
+    "id": "emerald_tools:amethyst_chestplate"
+  }
+}

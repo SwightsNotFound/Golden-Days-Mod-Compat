@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.15,
+  "ingredient": {
+    "item": "mynethersdelight:slices_of_bread"
+  },
+  "result": {
+    "count": 1,
+    "id": "mynethersdelight:toasts"
+  }
+}

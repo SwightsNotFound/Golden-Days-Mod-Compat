@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "emerald_tools:ruby"
+    }
+  },
+  "pattern": [
+    "aaa",
+    "a a",
+    "a a"
+  ],
+  "result": {
+    "count": 1,
+    "id": "emerald_tools:ruby_leggings"
+  }
+}

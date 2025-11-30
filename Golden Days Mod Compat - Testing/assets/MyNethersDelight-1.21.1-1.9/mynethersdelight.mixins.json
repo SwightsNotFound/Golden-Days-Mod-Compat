@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "package": "com.soytutta.mynethersdelight.core.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "FrogEntityMixin",
+    "StriderEntityDataMixin",
+    "StriderLogicMixin",
+    "StriderVisualMixin",
+    "KeepResurgentSoilGiantTreeMixin",
+    "KeepResurgentSoilTreeMixin",
+    "LivingEntityMixin",
+    "MobMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:ghast_tear"
+    },
+    "-": {
+      "item": "minecraft:stick"
+    },
+    "i": {
+      "item": "minecraft:ice"
+    }
+  },
+  "pattern": [
+    " ii",
+    "i#i",
+    "-i "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mynethersdelight:tear_popsicle"
+  }
+}

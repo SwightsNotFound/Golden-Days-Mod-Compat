@@ -1,0 +1,33 @@
+{
+  "values": [
+    "emerald_tools:emerald_pickaxe",
+    "emerald_tools:obsidian_pickaxe",
+    "emerald_tools:ruby_pickaxe",
+    "emerald_tools:ruby_steel_pickaxe",
+    "emerald_tools:steel_pickaxe",
+    "emerald_tools:copper_pickaxe",
+    "emerald_tools:amethyst_pickaxe",
+    "emerald_tools:emerald_paxel",
+    "emerald_tools:obsidian_paxel",
+    "emerald_tools:ruby_paxel",
+    "emerald_tools:steel_paxel",
+    "emerald_tools:copper_paxel",
+    "emerald_tools:amethyst_paxel",
+    "emerald_tools:wooden_paxel",
+    "emerald_tools:gold_paxel",
+    "emerald_tools:iron_paxel",
+    "emerald_tools:diamond_paxel",
+    "emerald_tools:netherite_paxel",
+    "emerald_tools:emerald_hammer",
+    "emerald_tools:obsidian_hammer",
+    "emerald_tools:ruby_hammer",
+    "emerald_tools:steel_hammer",
+    "emerald_tools:copper_hammer",
+    "emerald_tools:amethyst_hammer",
+    "emerald_tools:wooden_hammer",
+    "emerald_tools:gold_hammer",
+    "emerald_tools:iron_hammer",
+    "emerald_tools:diamond_hammer",
+    "emerald_tools:netherite_hammer"
+  ]
+}

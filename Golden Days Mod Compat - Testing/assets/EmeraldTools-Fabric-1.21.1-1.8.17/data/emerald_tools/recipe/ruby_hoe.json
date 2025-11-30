@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "emerald_tools:ruby"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "aa ",
+    " b ",
+    " b "
+  ],
+  "result": {
+    "count": 1,
+    "id": "emerald_tools:ruby_hoe"
+  }
+}

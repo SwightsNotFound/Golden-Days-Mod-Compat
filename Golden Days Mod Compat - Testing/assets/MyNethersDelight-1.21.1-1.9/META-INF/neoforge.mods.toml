@@ -1,0 +1,46 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+issueTrackerURL = "https://github.com/SoyTutta/MyNethersDelight/issues"
+license="MIT"
+
+[[mods]]
+modId="mynethersdelight"
+version="1.9"
+displayName="My Nether's Delight"
+displayURL = "https://github.com/SoyTutta/MyNethersDelight"
+logoFile="logo.png"
+logoBlur = false
+credits="Mpustovoi, Unroman, ChuijkYahus, SlimeSB, RaymondBlaze, TCGhost, Sarinsa, Umpaz, UltrusBot"
+authors="SoyTutta"
+description="An new Nether expansion for Farmer's Delight!!"
+
+[[mixins]]
+config = "mynethersdelight.mixins.json"
+
+[[dependencies.mynethersdelight]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.4,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mynethersdelight]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mynethersdelight]]
+    modId="farmersdelight"
+    type="required"
+    versionRange="1.21-1.2.4"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.mynethersdelight]]
+    modId="minersdelight"
+    type="optional"
+    versionRange="[1.4,)"
+    ordering="AFTER"
+    side="BOTH"

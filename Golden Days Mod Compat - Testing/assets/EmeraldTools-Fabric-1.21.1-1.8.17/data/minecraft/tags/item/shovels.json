@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+      "emerald_tools:emerald_shovel",
+      "emerald_tools:obsidian_shovel",
+      "emerald_tools:ruby_shovel",
+      "emerald_tools:steel_shovel",
+      "emerald_tools:copper_shovel",
+      "emerald_tools:amethyst_shovel",
+      "emerald_tools:emerald_excavator",
+      "emerald_tools:obsidian_excavator",
+      "emerald_tools:ruby_excavator",
+      "emerald_tools:steel_excavator",
+      "emerald_tools:copper_excavator",
+      "emerald_tools:amethyst_excavator",
+      "emerald_tools:wooden_excavator",
+      "emerald_tools:gold_excavator",
+      "emerald_tools:iron_excavator",
+      "emerald_tools:diamond_excavator",
+      "emerald_tools:netherite_excavator"
+  ]
+}

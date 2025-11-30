@@ -1,0 +1,31 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/boiled_egg"
+    },
+    {
+      "tag": "c:foods/boiled_egg"
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "item": "farmersdelight:minced_beef"
+        },
+        {
+          "item": "mynethersdelight:hoglin_sausage"
+        }
+      ]
+    },
+    {
+      "tag": "c:foods/bread"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "mynethersdelight:scotch_eggs"
+  }
+}

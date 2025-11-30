@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    },
+    "c": {
+      "item": "minecraft:feather"
+    }
+  },
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "emerald_tools:diamond_arrow"
+  }
+}

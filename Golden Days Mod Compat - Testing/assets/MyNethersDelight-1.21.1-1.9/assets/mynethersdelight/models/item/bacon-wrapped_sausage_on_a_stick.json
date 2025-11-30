@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mynethersdelight:item/bacon-wrapped_sausage_stick"
+  }
+}

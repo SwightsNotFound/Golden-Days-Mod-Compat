@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "item": "emerald_tools:ruby_sword"
+  },
+  "result": {
+    "id": "minecraft:diamond_sword"
+  },
+  "template": {
+    "item": "emerald_tools:sword_template"
+  }
+}

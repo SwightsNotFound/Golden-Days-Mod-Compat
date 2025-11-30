@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "tag": "c:steel_ingots"
+  },
+  "base": {
+    "item": "minecraft:bow"
+  },
+  "result": {
+    "id": "emerald_tools:steel_bow"
+  },
+  "template": {
+    "item": "emerald_tools:bow_template"
+  }
+}

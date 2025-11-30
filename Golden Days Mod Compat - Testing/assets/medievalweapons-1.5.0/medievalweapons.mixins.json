@@ -1,0 +1,45 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.medievalweapons.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "plugin": "net.medievalweapons.mixin.MedievalWeaponsMixinPlugin",
+  "mixins": [
+    "PlayerEntityMixin",
+    "EnchantmentHelperMixin",
+    "EnchantmentMixin",
+    "LivingEntityMixin",
+    "AreaEffectCloudEntityMixin",
+    "RecipeManagerMixin",
+    "ServerAdvancementLoaderMixin",
+    "TagGroupLoaderMixin",
+    "BowItemMixin",
+    "MobEntityMixin",
+    "compat.BigAxeItemMixin",
+    "compat.DaggerItemMixin",
+    "compat.FranciscaItemMixin",
+    "compat.HealingStaffItemMixin",
+    "compat.JavelinItemMixin",
+    "compat.LanceItemMixin",
+    "compat.LongSwordItemMixin",
+    "compat.MaceItemMixin",
+    "compat.NinjatoItemMixin",
+    "compat.RapierItemMixin",
+    "compat.SickleItemMixin",
+    "compat.SmallAxeItemMixin"
+  ],
+  "client": [
+    "client.BipedEntityModelMixin",
+    "client.AbstractClientPlayerEntityMixin",
+    "client.ClientLivingEntityMixin",
+    "client.ItemRendererMixin",
+    "client.MinecraftClientMixin",
+    "client.InGameHudMixin",
+    "client.DrawContextMixin",
+    "client.PersistentProjectileEntityAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "medievalweapons-refmap.json"
+}

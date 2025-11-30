@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "tag": "c:rubies"
+  },
+  "base": {
+    "item": "emerald_tools:steel_sword"
+  },
+  "result": {
+    "id": "emerald_tools:ruby_steel_sword"
+  },
+  "template": {
+    "item": "emerald_tools:sword_template"
+  }
+}

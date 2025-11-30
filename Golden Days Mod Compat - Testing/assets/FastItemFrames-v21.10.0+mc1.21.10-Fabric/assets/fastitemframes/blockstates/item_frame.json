@@ -1,0 +1,204 @@
+{
+  "variants": {
+    "dyed=false,facing=down,invisible=false,map=false": {
+      "model": "minecraft:block/item_frame",
+      "x": 90,
+      "y": 180
+    },
+    "dyed=false,facing=down,invisible=false,map=true": {
+      "model": "minecraft:block/item_frame_map",
+      "x": 90,
+      "y": 180
+    },
+    "dyed=false,facing=down,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "x": 90,
+      "y": 180
+    },
+    "dyed=false,facing=down,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "x": 90,
+      "y": 180
+    },
+    "dyed=false,facing=east,invisible=false,map=false": {
+      "model": "minecraft:block/item_frame",
+      "y": 90
+    },
+    "dyed=false,facing=east,invisible=false,map=true": {
+      "model": "minecraft:block/item_frame_map",
+      "y": 90
+    },
+    "dyed=false,facing=east,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 90
+    },
+    "dyed=false,facing=east,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 90
+    },
+    "dyed=false,facing=north,invisible=false,map=false": {
+      "model": "minecraft:block/item_frame"
+    },
+    "dyed=false,facing=north,invisible=false,map=true": {
+      "model": "minecraft:block/item_frame_map"
+    },
+    "dyed=false,facing=north,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible"
+    },
+    "dyed=false,facing=north,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible"
+    },
+    "dyed=false,facing=south,invisible=false,map=false": {
+      "model": "minecraft:block/item_frame",
+      "y": 180
+    },
+    "dyed=false,facing=south,invisible=false,map=true": {
+      "model": "minecraft:block/item_frame_map",
+      "y": 180
+    },
+    "dyed=false,facing=south,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 180
+    },
+    "dyed=false,facing=south,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 180
+    },
+    "dyed=false,facing=up,invisible=false,map=false": {
+      "model": "minecraft:block/item_frame",
+      "x": 270,
+      "y": 180
+    },
+    "dyed=false,facing=up,invisible=false,map=true": {
+      "model": "minecraft:block/item_frame_map",
+      "x": 270,
+      "y": 180
+    },
+    "dyed=false,facing=up,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "x": 270,
+      "y": 180
+    },
+    "dyed=false,facing=up,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "x": 270,
+      "y": 180
+    },
+    "dyed=false,facing=west,invisible=false,map=false": {
+      "model": "minecraft:block/item_frame",
+      "y": 270
+    },
+    "dyed=false,facing=west,invisible=false,map=true": {
+      "model": "minecraft:block/item_frame_map",
+      "y": 270
+    },
+    "dyed=false,facing=west,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 270
+    },
+    "dyed=false,facing=west,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 270
+    },
+    "dyed=true,facing=down,invisible=false,map=false": {
+      "model": "fastitemframes:block/item_frame_dyed",
+      "x": 90,
+      "y": 180
+    },
+    "dyed=true,facing=down,invisible=false,map=true": {
+      "model": "fastitemframes:block/item_frame_map_dyed",
+      "x": 90,
+      "y": 180
+    },
+    "dyed=true,facing=down,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "x": 90,
+      "y": 180
+    },
+    "dyed=true,facing=down,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "x": 90,
+      "y": 180
+    },
+    "dyed=true,facing=east,invisible=false,map=false": {
+      "model": "fastitemframes:block/item_frame_dyed",
+      "y": 90
+    },
+    "dyed=true,facing=east,invisible=false,map=true": {
+      "model": "fastitemframes:block/item_frame_map_dyed",
+      "y": 90
+    },
+    "dyed=true,facing=east,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 90
+    },
+    "dyed=true,facing=east,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 90
+    },
+    "dyed=true,facing=north,invisible=false,map=false": {
+      "model": "fastitemframes:block/item_frame_dyed"
+    },
+    "dyed=true,facing=north,invisible=false,map=true": {
+      "model": "fastitemframes:block/item_frame_map_dyed"
+    },
+    "dyed=true,facing=north,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible"
+    },
+    "dyed=true,facing=north,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible"
+    },
+    "dyed=true,facing=south,invisible=false,map=false": {
+      "model": "fastitemframes:block/item_frame_dyed",
+      "y": 180
+    },
+    "dyed=true,facing=south,invisible=false,map=true": {
+      "model": "fastitemframes:block/item_frame_map_dyed",
+      "y": 180
+    },
+    "dyed=true,facing=south,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 180
+    },
+    "dyed=true,facing=south,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 180
+    },
+    "dyed=true,facing=up,invisible=false,map=false": {
+      "model": "fastitemframes:block/item_frame_dyed",
+      "x": 270,
+      "y": 180
+    },
+    "dyed=true,facing=up,invisible=false,map=true": {
+      "model": "fastitemframes:block/item_frame_map_dyed",
+      "x": 270,
+      "y": 180
+    },
+    "dyed=true,facing=up,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "x": 270,
+      "y": 180
+    },
+    "dyed=true,facing=up,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "x": 270,
+      "y": 180
+    },
+    "dyed=true,facing=west,invisible=false,map=false": {
+      "model": "fastitemframes:block/item_frame_dyed",
+      "y": 270
+    },
+    "dyed=true,facing=west,invisible=false,map=true": {
+      "model": "fastitemframes:block/item_frame_map_dyed",
+      "y": 270
+    },
+    "dyed=true,facing=west,invisible=true,map=false": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 270
+    },
+    "dyed=true,facing=west,invisible=true,map=true": {
+      "model": "fastitemframes:block/item_frame_invisible",
+      "y": 270
+    }
+  }
+}

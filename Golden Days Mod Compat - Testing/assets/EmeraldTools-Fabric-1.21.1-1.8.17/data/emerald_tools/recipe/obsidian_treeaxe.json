@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:obsidian"
+    },
+    "b": {
+      "item": "minecraft:crying_obsidian"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "ab ",
+    "ac ",
+    " c "
+  ],
+  "result": {
+    "count": 1,
+    "id": "emerald_tools:obsidian_treeaxe"
+  }
+}

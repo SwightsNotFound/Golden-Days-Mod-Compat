@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "emerald_tools:emerald_boots",
+    "emerald_tools:ruby_boots",
+    "emerald_tools:amethyst_boots",
+    "emerald_tools:steel_boots",
+    "emerald_tools:obsidian_boots",
+    "emerald_tools:copper_boots"
+  ]
+}

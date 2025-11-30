@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Specification-Title: Fast Item Frames
+Specification-Version: 21.10.0
+Specification-Vendor: Fuzs
+Implementation-Title: Fast Item Frames
+Implementation-Version: 21.10.0
+Implementation-Vendor: Fuzs
+Implementation-Timestamp: 2025-10-08T22:29:50+0200
+Implementation-Timestamp-Milli: 1759955390770
+Implementation-URL: https://github.com/Fuzss/fastitemframes
+Built-On-Java: 21.0.7+6-LTS (Microsoft)
+Built-On-Minecraft: 1.21.10
+Fabric-Jar-Type: classes
+Fabric-Loom-Mixin-Remap-Type: mixin
+Fabric-Gradle-Version: 9.1.0
+Fabric-Loom-Version: 1.11.451
+Fabric-Mixin-Compile-Extensions-Version: 0.6.0
+Fabric-Minecraft-Version: 1.21.10
+Fabric-Tiny-Remapper-Version: 0.11.1
+Fabric-Loader-Version: 0.17.2
+Fabric-Mixin-Version: 0.16.3+mixin.0.8.7
+Fabric-Mixin-Group: net.fabricmc
+Fabric-Mapping-Namespace: intermediary
+

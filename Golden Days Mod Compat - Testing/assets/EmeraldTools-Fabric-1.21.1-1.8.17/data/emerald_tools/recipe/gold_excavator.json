@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "item": "minecraft:gold_ingot"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " aa",
+    " ba",
+    "b  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "emerald_tools:gold_excavator"
+  }
+}

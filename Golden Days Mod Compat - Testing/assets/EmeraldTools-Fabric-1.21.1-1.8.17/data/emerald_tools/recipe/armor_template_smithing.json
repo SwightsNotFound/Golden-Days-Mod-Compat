@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "emerald_tools:armor_template"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,16 @@
+{
+  "type": "mynethersdelight:especial_drop",
+  "conditions": [
+    {
+      "condition": "minecraft:match_tool",
+      "predicate": {
+        "items": "#farmersdelight:tools/knives"
+      }
+    },
+    {
+      "condition": "minecraft:block_state_property",
+      "block": "mynethersdelight:magma_cake_block"
+    }
+  ],
+  "drop": "mynethersdelight:magma_cake_slice"
+}

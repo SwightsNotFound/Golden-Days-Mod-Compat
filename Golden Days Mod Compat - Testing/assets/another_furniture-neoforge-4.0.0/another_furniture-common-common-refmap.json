@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/starfish_studios/another_furniture/mixin/BlockMixin": {
+      "isExceptionForConnection": "Lnet/minecraft/class_2248;method_9581(Lnet/minecraft/class_2680;)Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/starfish_studios/another_furniture/mixin/BlockMixin": {
+        "isExceptionForConnection": "Lnet/minecraft/class_2248;method_9581(Lnet/minecraft/class_2680;)Z"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " r ",
+    "rer",
+    " r "
+  ],
+  "category": "equipment",
+  "key": {
+    "e": {
+      "item": "minecraft:emerald"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "emerald_tools:ruby"
+  }
+}

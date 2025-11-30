@@ -1,0 +1,25 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "expanded_combat:model/shields/shield_base"
+    },
+    {
+      "type": "minecraft:directory",
+      "prefix": "model/shields/",
+      "source": "model/shields"
+    },
+    {
+      "type": "expanded_combat:alpha_mask_folder_permutations",
+      "mask_name_as_folder": true,
+      "permutations": [
+        "expanded_combat:model/shields/empty/dl",
+        "expanded_combat:model/shields/empty/dr",
+        "expanded_combat:model/shields/empty/ul",
+        "expanded_combat:model/shields/empty/ur",
+        "expanded_combat:model/shields/m"
+      ],
+      "source": "model/shields/bases"
+    }
+  ]
+}
