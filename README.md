@@ -24,25 +24,25 @@ If you’d like to help improve or fix any of the issues listed above, please fe
 ### Licensing
 While most of this pack is licensed under [MIT](https://opensource.org/license/mit), **PoeticRainbow** has full rights to the following assets present in this pack.
 - This resource packs logo.
-- The unoxidized copper textures of the sword, tools, and armour for [Exline's Copper Equipment](https://modrinth.com/mod/exlines-copper-equipment)
-- All paintings present for [Backport Paintings 1.21](https://modrinth.com/mod/backport-paintings-1.21).
-- All texturs present for [Better Copper / Armor and Tools](https://modrinth.com/mod/better-copper-armor-and-tools)
-- All textures present for [Leaf's Copper Backport](https://modrinth.com/mod/copper-backport)  
-- All textures present for [Vanilla Backport](https://modrinth.com/mod/vanillabackport)
-- All textures present for [Trials Chambers](https://modrinth.com/mod/trials-chambers-backport)
+- The unoxidized copper textures of the sword, tools, and armour in [Exline's Copper Equipment](https://modrinth.com/mod/exlines-copper-equipment)
+- All paintings present in [Backport Paintings 1.21](https://modrinth.com/mod/backport-paintings-1.21).
+- All texturs present in [Better Copper / Armor and Tools](https://modrinth.com/mod/better-copper-armor-and-tools)
+- All textures present in [Leaf's Copper Backport](https://modrinth.com/mod/copper-backport) except for the copper horn (icon.png).  
+- All textures present in [Vanilla Backport](https://modrinth.com/mod/vanillabackport)
+- All textures present in [Trials Chambers](https://modrinth.com/mod/trials-chambers-backport)
 
 ### Credit Where Credit Is Due
-If any of the following people need to contact me please [email me](mailto:mail@swightshome.xyz).
+If any of the following people need to contact me please [email me](mailto:mail@swightshome.xyz)
 
 **PoeticRainbow** — for creating *Golden Days* and for being being kind enough to help me.  
 
-**TheDarkPanther** — for the *Exline's Copper Equipment* textures.  
+**TheDarkPanther** — for some of the oxidized *Exline's Copper Equipment* textures.  
 [Exline's Copper Equipment × Golden Days](https://modrinth.com/resourcepack/exlines-copper-equipment-x-golden-days) • [MIT License](https://opensource.org/license/mit)  
 I’ve updated it to use Golden Days’ new copper textures introduced in 1.21.9.  
 
 **bbali and DrBruhMoments** — for some of the textures im using to support the following mods.  
 [Reminiscence](https://www.curseforge.com/minecraft/modpacks/reminiscence) • [MIT License](https://opensource.org/license/mit)  
-Amendments / Aether / BetterEnd / Deep Aether / End Remastered / Farmer’s Delight / Joy of Painting / Naturalist / Quark / Sawmill / Supplementaries
+Aether / Amendments / BetterEnd / Buzzier Bees / Clayworks / Deep Aether / End Remastered / Farmer’s Delight / Incubation / Inmis / Joy of Painting / Naturalist / Pet Cemetery / Quark / Sawmill / Supplementaries / Upgrade Aquatic
 
 **H2OTheMadScientist** — for the MmmMmmMmmMmm (Dummmy) item, and the general base of the model, I have simple updated it to work with newer versions of the mod.  
 [Programmer-ish Dummy](https://modrinth.com/resourcepack/programmer-ish-dummy) • [CC0-1.0 License](https://choosealicense.com/licenses/cc0-1.0/)
