@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "mynethersdelight:block/powdery_planks",
-    "side": "mynethersdelight:block/powdery_planks",
-    "top": "mynethersdelight:block/powdery_planks"
-  }
-}

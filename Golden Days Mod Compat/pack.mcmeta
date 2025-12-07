@@ -1,15 +1,38 @@
 {
-    "pack": {
-        "pack_format": 15,
-		"supported_formats": [15, 32],
-        "description": "Re-textures certain mods for compatibility with §6Golden Days"
-    },
-	"overlays": {
-		"entries": [
-			{
-				"formats": {"min_inclusive": 18, "max_inclusive": 2147483647},
-				"directory": "overlay_18"
-			}
-		]
-	}
+  "pack": {
+    "description": "Re-textures certain mods for compatibility with §6Golden Days",
+    "pack_format": 15,
+    "supported_formats": [15, 420],
+    "min_format": 15,
+    "max_format": 420
+  },
+  "overlays": {
+    "entries": [
+      {"directory": "lightmaps", "formats": [15, 35]},
+      {
+        "directory": "bat_update",
+        "formats": [20, 420],
+        "min_format": 20,
+        "max_format": 420
+      },
+      {
+        "directory": "item_definitions",
+        "formats": [45, 420],
+        "min_format": 45,
+        "max_format": 420
+      },
+      {
+        "directory": "no_rotation_snap",
+        "formats": [57, 420],
+        "min_format": 57,
+        "max_format": 420
+      },
+      {
+        "directory": "pack_format_65",
+        "formats": [65, 420],
+        "min_format": 65,
+        "max_format": 420
+      }
+    ]
+  }
 }

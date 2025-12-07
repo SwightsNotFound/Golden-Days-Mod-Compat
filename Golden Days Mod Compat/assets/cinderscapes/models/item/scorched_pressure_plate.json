@@ -1,0 +1,6 @@
+{
+  "parent": "cinderscapes:item/template_pressure_plate",
+  "textures": {
+    "texture": "cinderscapes:block/scorched_planks"
+  }
+}

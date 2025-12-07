@@ -1,6 +1,0 @@
-{
-  "parent": "medievalweapons:item/big_axe_bc",
-  "textures": {
-    "layer0": "medievalweapons:item/stone_big_axe"
-  }
-}

@@ -1,0 +1,6 @@
+{
+  "parent": "more_useful_copper:item/template_pressure_plate",
+  "textures": {
+    "texture": "minecraft:block/copper_block"
+  }
+}

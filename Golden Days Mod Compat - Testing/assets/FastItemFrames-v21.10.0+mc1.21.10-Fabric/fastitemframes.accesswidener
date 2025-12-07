@@ -1,7 +1,0 @@
-accessWidener	v2	intermediary
-accessible	field	net/minecraft/class_1533	field_22476	Z
-accessible	method	net/minecraft/class_1533	method_6892	(Lnet/minecraft/class_2350;)V
-accessible	method	net/minecraft/class_1533	method_6936	(Lnet/minecraft/class_3218;Lnet/minecraft/class_1297;Z)V
-accessible	method	net/minecraft/class_1533	method_33340	()Lnet/minecraft/class_1799;
-accessible	field	net/minecraft/class_1790	field_7999	Lnet/minecraft/class_1299;
-accessible	method	net/minecraft/class_897	method_62426	(Lnet/minecraft/class_1297;)Lnet/minecraft/class_2561;

@@ -1,8 +1,0 @@
-{
-    "parent": "another_furniture:block/template/awning",
-    "textures": {
-        "particle": "minecraft:block/magenta_wool",
-        "side": "another_furniture:block/awning/magenta_side",
-        "top": "another_furniture:block/awning/magenta_top"
-    }
-}

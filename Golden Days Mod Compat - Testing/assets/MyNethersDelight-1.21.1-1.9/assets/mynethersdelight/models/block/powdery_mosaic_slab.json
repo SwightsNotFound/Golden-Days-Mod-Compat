@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab",
-  "textures": {
-    "bottom": "mynethersdelight:block/powdery_mosaic",
-    "side": "mynethersdelight:block/powdery_mosaic",
-    "top": "mynethersdelight:block/powdery_mosaic"
-  }
-}

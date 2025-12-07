@@ -1,8 +1,0 @@
-{
-  "parent": "mynethersdelight:block/template_farmland_custom",
-  "textures": {
-    "top": "mynethersdelight:block/resurgent_soil_farmland",
-    "bottom": "mynethersdelight:block/resurgent_soil",
-    "side": "mynethersdelight:block/resurgent_soil"
-  }
-}

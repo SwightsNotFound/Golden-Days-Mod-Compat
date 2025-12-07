@@ -1,8 +1,0 @@
-{
-  "type": "layer",
-  "variants":{
-    "waterlogged=false": {
-      "data": "terrestria:bettergrass/data/rubber_trapdoor"
-    }
-  }
-}

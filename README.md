@@ -16,31 +16,44 @@ Currently, custom item models for pressure plates and fence gates do not work on
 
 Custom beta-style boat textures used by Golden Days through EMF are not currently supported for modded boats. This is mainly because I don’t fully understand how EMF works, but also Golden Days’ implementation can cause some visual glitches on older versions. For those reasons, this resource pack disables Golden Days’ custom boats by default. You can toggle this option in [Respackopts](https://modrinth.com/mod/respackopts).
 
+Vanilla Backport uses a solid render type for pale oak doors and trapdoors, causing the windows to not be see through, I have already reported this issue and the dev says he will fix it.  
+[#176](https://github.com/ItsBlackGear/VanillaBackport/issues/176)
+
 
 ---
 
 If you’d like to help improve or fix any of the issues listed above, please feel free to help out on [GitHub](https://github.com/SwightsNotFound/Golden-Days-Mod-Compat), Contributions are always appreciated.
 
+---
+
 ### Licensing
 While most of this pack is licensed under [MIT](https://opensource.org/license/mit), **PoeticRainbow** has full rights to the following assets present in this pack.
 - This resource packs logo.
-- The unoxidized copper textures of the sword, tools, and armour in [Exline's Copper Equipment](https://modrinth.com/mod/exlines-copper-equipment)
+- The unoxidized copper textures of the sword, tools, and armour in [Exline's Copper Equipment](https://modrinth.com/mod/exlines-copper-equipment) except for the copper bow and shears.
 - All paintings present in [Backport Paintings 1.21](https://modrinth.com/mod/backport-paintings-1.21).
 - All texturs present in [Better Copper / Armor and Tools](https://modrinth.com/mod/better-copper-armor-and-tools)
-- All textures present in [Leaf's Copper Backport](https://modrinth.com/mod/copper-backport) except for the copper horn (icon.png).  
+- All textures present in [Leaf's Copper Backport](https://modrinth.com/mod/copper-backport) except for the copper horn (icon.png).
 - All textures present in [Vanilla Backport](https://modrinth.com/mod/vanillabackport)
 - All textures present in [Trials Chambers](https://modrinth.com/mod/trials-chambers-backport)
+- All textures present in [More Useful Copper](https://modrinth.com/mod/more-useful-copper)
+- All copper textures present in [Easy Emerald Tools & More (Fabric)](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) except for the copper bow, shears, excavator, hammer and treeaxe.
 
 ### Credit Where Credit Is Due
 If any of the following people need to contact me please [email me](mailto:mail@swightshome.xyz)
 
-**PoeticRainbow** — for creating *Golden Days* and for being being kind enough to help me.  
+**PoeticRainbow** — for creating *Golden Days* and for being being kind enough to help me.
+
+**MCLegacy360Edition** — for contributing the vast majority of Easy Emerald Tools and More and Weapons Expanded.  
+[#14](https://github.com/SwightsNotFound/Golden-Days-Mod-Compat/issues/14) [#9](https://github.com/SwightsNotFound/Golden-Days-Mod-Compat/issues/9)
+
+**FrostyCirno** — for contributing all of YUNG's Cave Biomes textures.  
+[#6](https://github.com/SwightsNotFound/Golden-Days-Mod-Compat/issues/6)
 
 **TheDarkPanther** — for some of the oxidized *Exline's Copper Equipment* textures.  
 [Exline's Copper Equipment × Golden Days](https://modrinth.com/resourcepack/exlines-copper-equipment-x-golden-days) • [MIT License](https://opensource.org/license/mit)  
-I’ve updated it to use Golden Days’ new copper textures introduced in 1.21.9.  
+I’ve updated it to use Golden Days’ new copper textures introduced in 1.21.9.
 
-**bbali and DrBruhMoments** — for some of the textures im using to support the following mods.  
+**bbali and DrBruhMoments** — for most of the textures im using to support the following mods.  
 [Reminiscence](https://www.curseforge.com/minecraft/modpacks/reminiscence) • [MIT License](https://opensource.org/license/mit)  
 Aether / Amendments / BetterEnd / Buzzier Bees / Clayworks / Deep Aether / End Remastered / Farmer’s Delight / Incubation / Inmis / Joy of Painting / Naturalist / Pet Cemetery / Quark / Sawmill / Supplementaries / Upgrade Aquatic
 

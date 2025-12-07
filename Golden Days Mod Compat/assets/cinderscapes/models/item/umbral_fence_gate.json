@@ -1,0 +1,6 @@
+{
+  "parent": "cinderscapes:item/template_fence_gate_inventory",
+  "textures": {
+    "all": "cinderscapes:block/umbral_planks"
+  }
+}

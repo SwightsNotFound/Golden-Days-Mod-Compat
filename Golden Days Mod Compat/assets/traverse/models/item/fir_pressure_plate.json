@@ -1,0 +1,6 @@
+{
+  "parent": "traverse:item/template_pressure_plate",
+  "textures": {
+    "texture": "traverse:block/fir_planks"
+  }
+}

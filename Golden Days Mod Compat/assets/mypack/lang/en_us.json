@@ -9,6 +9,10 @@
     "rpo.goldenDaysModCompat.disableBambooBoats.tooltip": "Disables Golden Days custom EMF bamboo boats",
 
     // Mod Options
+    // Advanced Netherite
+    "rpo.goldenDaysModCompat.advancedNetherite": "Advanced Netherite",
+    "rpo.goldenDaysModCompat.advancedNetherite.tooltip": "Advanced Netherite Re-texture",
+
     // Aether
     "rpo.goldenDaysModCompat.aether": "Aether",
     "rpo.goldenDaysModCompat.aether.tooltip": "Aether Re-texture.",
@@ -57,6 +61,10 @@
     "rpo.goldenDaysModCompat.chiselBit": "Chisels & Bits",
     "rpo.goldenDaysModCompat.chiselBit.tooltip": "Chisels & Bits Re-texture",
 
+    // Cinderscapes
+    "rpo.goldenDaysModCompat.cinderscapes": "Cinderscapes",
+    "rpo.goldenDaysModCompat.cinderscapes.tooltip": "Cinderscapes Re-texture",
+
     // Clayworks
     "rpo.goldenDaysModCompat.clayworks": "Clayworks",
     "rpo.goldenDaysModCompat.clayworks.tooltip": "Clayworks Re-texture",
@@ -77,9 +85,21 @@
     "rpo.goldenDaysModCompat.detailArmorBar": "Detail Armor Bar",
     "rpo.goldenDaysModCompat.detailArmorBar.tooltip": "Detail Armor Bar Re-texture",
 
+    // Easy Emerald Tools
+    "rpo.goldenDaysModCompat.easyEmeraldTools": "Easy Emerald Tools",
+    "rpo.goldenDaysModCompat.easyEmeraldTools.tooltip": "Easy Emerald Tools Re-texture",
+
     // End Remastered
     "rpo.goldenDaysModCompat.endRemastered": "End Remastered Frame Patch",
     "rpo.goldenDaysModCompat.endRemastered.tooltip": "Patches End Remastered to use the proper End Portal Frame texture.",
+
+    // End's Delight
+    "rpo.goldenDaysModCompat.endsDelight": "End's Delight",
+    "rpo.goldenDaysModCompat.endsDelight.tooltip": "End's Delight Re-texture",
+
+    // Explorer's Compass
+    "rpo.goldenDaysModCompat.explorersCompass": "Explorer's Compass",
+    "rpo.goldenDaysModCompat.explorersCompass.tooltip": "Explorer's Compass Re-texture",
 
     // Exline's Copper Equipment
     "rpo.goldenDaysModCompat.exlineCopperEquipment": "Exline's Copper Equipment",
@@ -127,13 +147,25 @@
     "rpo.goldenDaysModCompat.moreDelight": "More Delight",
     "rpo.goldenDaysModCompat.moreDelight.tooltip": "More Delight Re-texture",
 
+    // More Useful Copper
+    "rpo.goldenDaysModCompat.moreUsefulCopper": "More Useful Copper",
+    "rpo.goldenDaysModCompat.moreUsefulCopper.tooltip": "More Useful Copper Re-texture",
+
     // Naturalist
     "rpo.goldenDaysModCompat.naturalist": "Naturalist",
     "rpo.goldenDaysModCompat.naturalist.tooltip": "Naturalist Re-texture",
 
+    // Nature's Compass
+    "rpo.goldenDaysModCompat.naturesCompass": "Nature's Compass",
+    "rpo.goldenDaysModCompat.naturesCompass.tooltip": "Nature's Compass Re-texture",
+
     // Ocean's Delight
     "rpo.goldenDaysModCompat.oceansDelight": "Ocean's Delight",
     "rpo.goldenDaysModCompat.oceansDelight.tooltip": "Ocean's Delight Re-texture",
+
+    // Permanent Sponges
+    "rpo.goldenDaysModCompat.permanentSponges": "Permanent Sponges",
+    "rpo.goldenDaysModCompat.permanentSponges.tooltip": "Permanent Sponges Re-texture",
 
     // Pet Cemetery
     "rpo.goldenDaysModCompat.petCemetery": "Pet Cemetery",
@@ -155,9 +187,21 @@
     "rpo.goldenDaysModCompat.sawmill": "Sawmill",
     "rpo.goldenDaysModCompat.sawmill.tooltip": "Sawmill Re-texture",
 
+    // Sooty Chimneys
+    "rpo.goldenDaysModCompat.sootyChimneys": "Sooty Chimneys",
+    "rpo.goldenDaysModCompat.sootyChimneys.tooltip": "Sooty Chimneys Re-texture",
+
     // Supplementaries
     "rpo.goldenDaysModCompat.supplementaries": "Supplementaries",
     "rpo.goldenDaysModCompat.supplementaries.tooltip": "Supplementaries Re-texture",
+
+    // Trading Post
+    "rpo.goldenDaysModCompat.tradingPost": "Trading Post",
+    "rpo.goldenDaysModCompat.tradingPost.tooltip": "Trading Post Re-texture",
+
+    // Traverse
+    "rpo.goldenDaysModCompat.traverse": "Traverse",
+    "rpo.goldenDaysModCompat.traverse.tooltip": "Traverse Re-texture",
 
     // Trials Chambers
     "rpo.goldenDaysModCompat.trialsChambers": "Trials Chambers",
@@ -177,7 +221,15 @@
 
     // Vegan Delight
     "rpo.goldenDaysModCompat.veganDelight": "Vegan Delight",
-    "rpo.goldenDaysModCompat.veganDelight.tooltip": "Vegan Delight Re-texture"
+    "rpo.goldenDaysModCompat.veganDelight.tooltip": "Vegan Delight Re-texture",
+
+    // Weapons Expanded
+    "rpo.goldenDaysModCompat.weaponsExpanded": "Weapons Expanded",
+    "rpo.goldenDaysModCompat.weaponsExpanded.tooltip": "Weapons Expanded Re-texture",
+
+    // YUNG's Cave Biomes
+    "rpo.goldenDaysModCompat.yungsCaveBiomes": "YUNG's Cave Biomes",
+    "rpo.goldenDaysModCompat.yungsCaveBiomes.tooltip": "YUNG's Cave Biomes Re-texture"
 }
 
 

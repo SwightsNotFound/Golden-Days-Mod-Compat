@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/template_custom_fence_gate",
-  "textures": {
-    "particle": "mynethersdelight:block/powdery_fence_gate_particle",
-    "texture": "mynethersdelight:block/powdery_fence_gate"
-  }
-}

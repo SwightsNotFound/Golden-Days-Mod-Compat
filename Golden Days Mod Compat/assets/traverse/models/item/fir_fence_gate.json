@@ -1,0 +1,6 @@
+{
+  "parent": "traverse:item/template_fence_gate_inventory",
+  "textures": {
+    "all": "traverse:block/fir_planks"
+  }
+}
